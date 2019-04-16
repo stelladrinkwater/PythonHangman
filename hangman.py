@@ -1,6 +1,4 @@
 #Program runs interactive hangman game
-#A lot of helper code was used
-#All problems in set were centered around this project
 #Program assumes secret word is in lowercase
 
 import random
